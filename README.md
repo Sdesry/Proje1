@@ -8,7 +8,7 @@ Bu depo, **tek kişi tarafından** yürütülen Proje 1 (vize) çalışmasını 
 
 | Üye | Öğrenci no |
 |---|---|
-| [ÖĞRENCİ ADI SOYADI — öğrenci dolduracak] | [ÖĞRENCİ NO — öğrenci dolduracak] |
+| [ÖĞRENCİ ADI SOYADI — MEHMET TANKUT YOLSAL] | [ÖĞRENCİ NO — 264329014] |
 
 - **Grup adı:** Bireysel çalışma
 - **İletişim sorumlusu:** Öğrenci (iletişim bilgileri öğrenci tarafından eklenecek)
