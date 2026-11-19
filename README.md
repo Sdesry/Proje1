@@ -38,14 +38,14 @@ Bir e-ticaret oturumunun kaydedilmiş davranışsal özellikleri, satın almayla
 .
 ├── README.md
 └── proje1/
-    └── BIL545_Proje1_TekKisi.ipynb
+    └── BIL545_Proje1_Teslim_Kontrol.ipynb
 
 # proje2/ öğretim üyesinin Proje 1 geri bildiriminden sonra oluşturulacaktır.
 ```
 
 ## Çalıştırma
 
-1. [Proje 1 notebook'unu Colab'da açın](https://colab.research.google.com/drive/1DjIXIR5Aj2YvRaRqwghx6aBIVSZ9EyZZ). Teslimde GitHub'daki dosyanın aynı son sürüm olduğundan emin olun.
+1. [GitHub'daki son Proje 1 notebook'unu Colab'da açın](https://colab.research.google.com/github/Sdesry/Proje1/blob/main/proje1/BIL545_Proje1_Teslim_Kontrol.ipynb). Teslimde GitHub'daki dosyanın aynı son sürüm olduğundan emin olun.
 2. İnternet erişimi gereklidir; ilk hücrelerde UCI verisi indirilir. `ucimlrepo`, `mlxtend`, scikit-learn ve diğer bağımlılıklar notebook hücrelerinde belirtilmiştir.
 3. **Çalışma Zamanı → Tümünü çalıştır** ile baştan sona doğrulayın. Kayıtlı çıktılar mevcut olsa da yeniden baştan sona çalıştırma ayrıca kontrol edilmelidir.
 4. Weka bağımsız kontrolü için Python çıktılarını Weka sonuçlarıyla Bölüm 1.7 ve 3.4'te karşılaştırın. Weka işlemleri ayrı programda öğrenci tarafından yürütülmüştür.
