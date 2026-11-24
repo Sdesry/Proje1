@@ -61,7 +61,8 @@ Bir e-ticaret oturumunun kaydedilmiş davranışsal özellikleri, satın almayla
 - **Birliktelik:** Apriori ve FP-Growth aynı sık kümeleri üretti: min_support %3 / %5 / %10 için **1305 / 909 / 417** (maksimum 3 öğe). Weka Apriori'nin ilk üç düzey toplamları da aynı çıktı. Weka'nın kural sıralaması/budaması doğrudan eşdeğer değildir.
 - **Null-invariance:** 200 ilgisiz yapay oturum sonrası lift **4,79116 → 4,86887** değişirken Kulczynski **0,50068** sabit kaldı.
 
-Bu değerler kayıtlı Colab çıktılarından alınmıştır; **bağımsız, kilitli test kümesi başarımı iddia edilmez**. Gerçek kullanıcı kimlikleri bulunmadığından yalnızca tam aynı girdiler gruplanabilmiştir.
+Bu değerler kayıtlı Colab çıktılarından alınmıştır; **bağımsız, kilitli test kümesi başarımı iddia edilmez**. Gerçek kullanıcı kimlikleri bulunmadığından yalnızca tam aynı girdiler gruplanabilmiştir. 
+Sunum video link: https://drive.google.com/file/d/1pi_MOdEg9u31qKjkznE4t7DBmmG_qhmY/view?usp=sharing
 
 ## Proje 2
 
